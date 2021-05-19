@@ -1,0 +1,23 @@
+{
+  "name": "db-migration-demo",
+  "version": "1.0.0",
+  "description": "exercicio aula 03 - DB migration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santospedroh/db-migration-demo.git"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santospedroh/db-migration-demo/issues"
+  },
+  "homepage": "https://github.com/santospedroh/db-migration-demo#readme",
+  "dependencies": {
+    "db-migrate-mysql": "^2.1.2",
+    "express": "^4.17.1"
+  }
+}
